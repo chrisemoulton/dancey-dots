@@ -9,7 +9,7 @@
     "node": "0.6.x"
   },
   "dependencies": {
-    "socket.io": "~0.9.16"
+    "socket.io": "~4.7.5"
   },
   "domains": [
     "danceydots.com",
